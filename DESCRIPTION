@@ -1,0 +1,6 @@
+Package: shiny-predictor
+Title: Prediksi Shiny
+Version: 0.1.0
+Author: Galen
+Description: Aplikasi prediksi sederhana pakai Shiny
+Depends: R (>= 4.0), shiny
